@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sıyırdı", "Sıyırdı\Sıyırdı.csproj", "{B430E286-A4B5-4284-AB04-3D107E342922}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{82C02EE6-5336-4DFB-9FF5-AB0D0811FD66}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Sıyırdı.db = ..\..\..\Desktop\Sıyırdı.db
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B430E286-A4B5-4284-AB04-3D107E342922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B430E286-A4B5-4284-AB04-3D107E342922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B430E286-A4B5-4284-AB04-3D107E342922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B430E286-A4B5-4284-AB04-3D107E342922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD1A004F-D93C-42D6-99AF-9A7D54C60F2B}
+	EndGlobalSection
+EndGlobal
