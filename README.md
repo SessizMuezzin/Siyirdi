@@ -55,6 +55,7 @@ Soldaki "Ekle" butonuna basarak genel listeye, sağdaki "Listeme Ekle" butonuna 
 "Rastgele Şarkı Aç" butonuna bastığınızda uygulama veritabanından rastgele bir satır çeker ve varsayılan tarayıcınızda o linki açar.
 
 📸 Ekran Görüntüleri
+
 ![Uygulama Ana Ekran Görüntüsü](images/Ana-Ekran.png)
 
 *Uygulamanın ana arayüzü.*
